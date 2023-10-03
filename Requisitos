@@ -1,0 +1,30 @@
+2.1	Requisitos Funcionais
+
+RF01: Cadastro de clientes - o sistema deve permitir o cadastro de clientes, com informações como nome, endereço, telefone e e-mail.
+
+RF02: Cadastro de produtos - o sistema deve permitir o cadastro de produtos, com informações como nome, descrição, preço e estoque disponível.
+
+RF03: Gerenciamento de estoque - o sistema deve permitir o controle de estoque dos produtos, com informações sobre a quantidade disponível, quantidade mínima e máxima permitida, e alertas sobre estoque baixo.
+
+RF04: Realização de vendas - o sistema deve permitir a realização de vendas, com a seleção dos produtos pelo cliente, cálculo do valor total, 
+
+RF05 – O sistema deve permitir o registro do pagamento e emissão de comprovante.
+
+
+Requisitos não funcionais
+
+
+Descrever os requisitos não funcionais do sistema, utilizando identificadores para cada requisito.
+
+RNF01: Usabilidade - o sistema deve ser fácil de usar e intuitivo, com uma interface amigável para o usuário.
+
+RNF02: Performance - o sistema deve ter uma boa performance, com tempos de resposta rápidos e sem atrasos significativos nas operações, sendo assim, o consumidor conseguira navegar no site sem ter uma experiencia desagradável e consequentemente ficando mais tempo no site, uma resposta em tempo real e de milissegundos, acesso de um produto e o servidor já responder quase que instantaneamente 
+
+RNF03: Confiabilidade - o sistema deve ser confiável, com um baixo índice de erros ou falhas, e com a possibilidade de recuperação rápida em caso de problemas como ataques cibernéticos como DDOS e perca de acesso de níveis superiores para hackers.
+
+RNF04: Segurança - o sistema deve ser seguro, com mecanismos de proteção de dados e controle de acesso para evitar acessos não autorizados. Tais como Nível de acesso de controle de administrador para pessoas encarregadas do site, juntamente com autorização para que usuários possam ter acesso somente ao necessário para o site
+
+
+RNF05: Portabilidade - o sistema deve ser facilmente portável para diferentes ambientes e plataformas, sem comprometer a funcionalidade ou desempenho.
+
+RNF06: Manutenibilidade - o sistema deve ser facilmente mantido e atualizado, com documentação clara e organizada para facilitar o entendimento e manutenção do código.
